@@ -1,3 +1,5 @@
 Hello, this is a test file. 123 SBC. Testing testing 123. This message will self destruct.
 
 This line of text represents a release of our code at version 1.0.0.
+
+Started working on new feature! it is very cool!
